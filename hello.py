@@ -17,3 +17,10 @@ def get_inlink_list(doc_id):
     inlink_list_set = set(inlink_list)
     # inlink_list_set.remove(doc_id)
     return inlink_list_set
+
+
+for (int i=0; i<10; i++){
+get_data[]
+    get_inlink_list[]
+    
+}
